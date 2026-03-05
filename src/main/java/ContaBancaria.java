@@ -1,7 +1,8 @@
 public class ContaBancaria {
 
     private double saldo;
-        public ContaBancaria() {
+
+    public ContaBancaria() {
         this.saldo = 0.0;
     }
 
@@ -25,5 +26,4 @@ public class ContaBancaria {
     public double getSaldo() {
         return this.saldo;
     }
-    //Só posso consultar meu saldo se eu tiver uma conta (ideia de teste).
 }
