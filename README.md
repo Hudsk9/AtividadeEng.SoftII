@@ -49,3 +49,6 @@ Você pode rodar os testes deste projeto de duas formas:
 * **Pelo Terminal do Gradle:** Abra o terminal na pasta raiz do projeto e execute o comando `./gradlew test` (ou `gradlew test` no Windows).
 
 
+## Print da Execução com Testes verdes:
+
+<img width="1919" height="1032" alt="Captura de tela 2026-03-05 100225" src="https://github.com/user-attachments/assets/a55111bd-0008-4dd6-a5fc-ee9bc30ba822" />
